@@ -1,0 +1,34 @@
+.navbar{
+    position:absolute;
+    background: transparent!important;
+    width: 100%;
+    z-index: 10;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.3);
+}
+
+.nav-link{
+    color: #fff;
+}
+
+.search-bar{
+    position: absolute;
+    z-index: 1;
+    top: 25%;
+    width: 100%;
+}
+
+.carousel-inner{
+    height: 100vh;
+}
+
+.card{
+    
+    
+    position: absolute;
+    z-index: 1;
+    top: 25%;
+    left: 25%;
+    width: 50%;
+    
+    
+}
